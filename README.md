@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mustapha10210
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning html, CSS and Javascriot
+- 🌱 I’m currently learning html, CSS and Javascript
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ...
+- 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
